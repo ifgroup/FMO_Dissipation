@@ -1,0 +1,1 @@
+This code was built to run 500 noise trajectories as a test on a laptop. For representative averages, at least 10000 trajectories are needed, which would take too long. However, independent batches can be run on a cluster, and the results can then be averaged.
